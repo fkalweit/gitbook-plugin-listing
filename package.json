@@ -1,0 +1,10 @@
+{
+    "name": "gitbook-plugin-listing",
+    "version": "0.0.1",
+    "license": "MIT",
+    "main": "index.js",
+    "description": "Displays Sourcecode and Output. Inspired by include-display-run gitbook plugin (ZingChart).",
+    "engines": {
+        "gitbook": ">2.x.x"
+    }
+}
